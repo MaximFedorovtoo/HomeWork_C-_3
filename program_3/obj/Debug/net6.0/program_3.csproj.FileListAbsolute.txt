@@ -1,0 +1,15 @@
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.csproj.AssemblyReference.cache
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.AssemblyInfoInputs.cache
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.AssemblyInfo.cs
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.csproj.CoreCompileInputs.cache
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/program_3
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/program_3.deps.json
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/program_3.runtimeconfig.json
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/program_3.dll
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/ref/program_3.dll
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/bin/Debug/net6.0/program_3.pdb
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.dll
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/ref/program_3.dll
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.pdb
+/home/maxim/Рабочий стол/edu/C#/Homework_C#/HomeWork_C#_3/program_3/obj/Debug/net6.0/program_3.genruntimeconfig.cache
