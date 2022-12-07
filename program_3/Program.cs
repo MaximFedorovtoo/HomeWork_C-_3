@@ -15,12 +15,27 @@ void SquareNumb(int ver)
 {
     int count = 1;
     Console.Write($"{ver} -> ");
-    while (count <= ver) 
+    if(ver > 0)
     {
-        int temp = count*count*count;
-        Console.Write($"{temp}, ");
-        count++;
+        while (count <= ver) 
+        {
+            int temp = count*count*count;
+            Console.Write($"{temp}, ");
+            count++;
+        }
     }
+    if(ver < 0)
+    {
+        count = -1;
+        while (count >= ver) 
+        {
+            int temp = count*count*count;
+            Console.Write($"{temp}, ");
+            count--;
+        }
+    }
+    else{Console.WriteLine(0);}
+    
 }
 int sqare = 0;
 sqare = AddInteger(sqare);
