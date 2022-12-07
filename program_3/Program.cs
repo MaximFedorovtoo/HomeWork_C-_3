@@ -13,25 +13,22 @@ int AddInteger(int ver)
 }
 void SquareNumb(int ver)
 {
-    int count = 1;
+    int count = 0;
     Console.Write($"{ver} -> ");
     if(ver > 0)
     {
-        while (count <= ver) 
+        for (count = 1; count <= ver; count++) 
         {
             int temp = count*count*count;
             Console.Write($"{temp}, ");
-            count++;
         }
     }
     if(ver < 0)
     {
-        count = -1;
-        while (count >= ver) 
+        for (count = -1; count >= ver; count--) 
         {
             int temp = count*count*count;
             Console.Write($"{temp}, ");
-            count--;
         }
     }
     else{Console.WriteLine(0);}

@@ -6,16 +6,14 @@ Console.Clear();
 
 int []  AddArray(int[] array)
 {
-    
-    int count = 0;
-    while(count < array.Length)
+     for(int count = 0; count < array.Length; count++)
     {
         Console.Write($"Введите {count+1}-ю ось координаты: ");
         int ver = int.Parse(Console.ReadLine());
         array[count] = ver;
-        count++;
     }
-return array;
+
+    return array;
 }
 
 void FromFirstToSecond(int[] arr1, int [] arr2)
