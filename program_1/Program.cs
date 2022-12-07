@@ -26,7 +26,7 @@ void PalindFind(string str)
     else{Console.WriteLine($"Число {str} не является пятизначным!");}
     
 }
-string palind = "";
+string palind = string.Empty;
 palind = AddString(palind);
 PalindFind(palind);
 
