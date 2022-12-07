@@ -34,6 +34,6 @@ void SquareNumb(int ver)
     else{Console.WriteLine(0);}
     
 }
-int sqare = 0;
-sqare = AddInteger(sqare);
-SquareNumb(sqare);
+int square = 0;
+square = AddInteger(square);
+SquareNumb(square);
